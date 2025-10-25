@@ -1,0 +1,25 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
+obj/
+
+# SFML DLLs (users should get these themselves)
+*.dll
